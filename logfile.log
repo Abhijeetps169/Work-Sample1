@@ -1,1 +1,40 @@
 2024-10-07 21:21:01,069 : INFO : test_e2e : Selected first radio button
+2024-10-15 21:40:51,973 : INFO : test_e2e : Selected first radio button
+2024-10-15 22:13:01,832 : INFO : test_e2e : Selected first radio button
+2024-10-15 22:16:26,383 : INFO : test_e2e : Selected first radio button
+2024-10-16 22:13:54,533 : INFO : test_radio_button : Selected first radio button
+2024-10-16 22:17:32,542 : INFO : test_radio_button : Selected first radio button
+2024-10-16 22:17:39,687 : INFO : test_static_dropdown : Dropdown value selected
+2024-10-16 23:07:17,614 : INFO : test_radio_button : Selected first radio button
+2024-10-16 23:07:30,269 : INFO : test_static_dropdown : Dropdown value selected
+2024-10-16 23:07:39,883 : INFO : test_checkbox : Checkbox option 1 and option 3 selected
+2024-10-16 23:16:01,470 : INFO : test_radio_button : Selected first radio button
+2024-10-16 23:16:14,970 : INFO : test_static_dropdown : Dropdown value selected
+2024-10-16 23:16:24,426 : INFO : test_checkbox : Checkbox option 1 and option 3 selected
+2024-10-16 23:29:16,378 : INFO : test_radio_button : Selected first radio button
+2024-10-16 23:29:32,667 : INFO : test_static_dropdown : Dropdown value selected
+2024-10-16 23:29:41,550 : INFO : test_checkbox : Checkbox option 1 and option 3 selected
+2024-10-16 23:30:48,863 : INFO : test_radio_button : Selected first radio button
+2024-10-16 23:31:05,371 : INFO : test_static_dropdown : Dropdown value selected
+2024-10-16 23:31:14,677 : INFO : test_checkbox : Checkbox option 1 and option 3 selected
+2024-10-16 23:38:06,328 : INFO : test_dynamic_dropdown : Selected "Dominica" country from Auto suggested dropdown
+2024-10-17 20:38:03,900 : INFO : test_dynamic_dropdown : Selected "Dominica" country from Auto suggested dropdown
+2024-10-17 21:21:32,522 : INFO : test_checkbox : Checkbox option 1 and option 3 selected
+2024-10-17 21:22:37,024 : INFO : test_checkbox : Checkbox option 1 and option 3 selected
+2024-10-17 21:24:14,464 : INFO : test_checkbox : Checkbox option 1 and option 3 selected
+2024-10-17 21:25:12,937 : INFO : test_checkbox : Checkbox option 1 and option 3 selected
+2024-10-17 21:27:03,456 : INFO : test_checkbox : Checkbox option 1 and option 3 selected
+2024-10-17 21:27:26,101 : INFO : test_checkbox : Checkbox option 1 and option 3 selected
+2024-10-17 21:42:56,726 : INFO : test_radio_button : Selected first radio button
+2024-10-17 21:43:10,631 : INFO : test_dynamic_dropdown : Selected "Dominica" country from Auto suggested dropdown
+2024-10-17 21:43:19,370 : INFO : test_static_dropdown : Dropdown value selected
+2024-10-17 21:43:29,884 : INFO : test_checkbox : Checkbox option 1 and option 3 selected
+2024-10-17 21:58:14,901 : INFO : test_radio_button : Selected first radio button
+2024-10-17 21:58:27,666 : INFO : test_dynamic_dropdown : Selected "Dominica" country from Auto suggested dropdown
+2024-10-17 21:58:36,213 : INFO : test_static_dropdown : Dropdown value selected
+2024-10-17 21:58:46,276 : INFO : test_checkbox : Checkbox option 1 and option 3 selected
+2024-10-17 21:58:55,227 : INFO : test_mouse_hover : Hover on Mouse Hover button and right click on Top option
+2024-10-17 22:07:14,691 : INFO : test_mouse_hover : Hover on Mouse Hover button and right click on Top option
+2024-10-17 22:08:00,356 : INFO : test_mouse_hover : Hover on Mouse Hover button and right click on Top option
+2024-10-17 22:08:50,301 : INFO : test_mouse_hover : Hover on Mouse Hover button and right click on Top option
+2024-10-17 22:09:31,143 : INFO : test_mouse_hover : Hover on Mouse Hover button and right click on Top option

@@ -3,7 +3,7 @@ import logging
 import pytest
 
 
-@pytest.mark.Usefixtures("setup")
+#@pytest.mark.Usefixtures("setup")
 class BaseClass:
 
     def getLogger(self):
