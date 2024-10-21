@@ -6,6 +6,9 @@ Driver = None
 @pytest.fixture(autouse=True)
 def setup(request):
     global driver
+
+    #chrome_options = webdriver.ChromeOptions()
+    #chrome_options.add_argument("headless")
     driver = webdriver.Chrome()
     # executable_path="D:\\Python Practice\\chromedriver-win64\\chromedriver.exe"
     driver.get("https://rahulshettyacademy.com/AutomationPractice/")
